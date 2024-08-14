@@ -1,5 +1,5 @@
 # Bank Database Project
-This is the showcase of my intermediate python learning, implementing the concepts of OOP and database connectivity (MYSQL); having the signin/signup, balance enquiry, deposit, withdraw, fund transfer functions.
+This Bank Database Project is a showcase of intermediate Python skills, featuring OOP principles and MySQL database connectivity. It includes essential banking functionalities like Sign In/Sign Up, balance inquiry, deposits, withdrawals, fund transfers, and transaction history management. The project emphasizes secure account management, leveraging unique account numbers, and incorporating date/time tracking and random modules for enhanced functionality
 ## Features
 
 - **Sign In / Sign Up**
