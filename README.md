@@ -28,38 +28,7 @@ This is the showcase of my intermediate python learning, implementing the concep
   - user defined module
 
 ## Getting Started
-
-### Prerequisites
-
-Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
-
-### Installation
-1. Install MySQL Connector:
-    ```bash
-    pip install mysql-connector-python
-    ```
-2. Clone the repository:
-    ```bash
-    git clone https://github.com/mohitprajapat2001/Python-Bank-Project
-    ```
-3. Navigate to the project directory:
-    ```bash
-    cd Python-Bank-Project
-    ```
-
-### Usage
-1. Run the Database File Once to Create Required Tables:
-    ```bash
-    python database.py
-    ```
-2. Run the application:
-    ```bash
-    python main.py
-    ```
-3. Follow the on-screen instructions to navigate through the menu and use the various features of the bank management system.
-
 ## Detailed Features
-
 ### Registration
 
 - New users can register by providing personal details and creating an account.
